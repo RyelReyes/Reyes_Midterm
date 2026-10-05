@@ -1,0 +1,6 @@
+@Reyes_MIdterm_HostAddress = http://localhost:5019
+
+GET {{Reyes_MIdterm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
